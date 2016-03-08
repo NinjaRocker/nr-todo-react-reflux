@@ -3,6 +3,12 @@ logs
 *.log
 npm-debug.log*
 
+# IDEs
+.idea
+
+# node modules
+node_modules/
+
 # Runtime data
 pids
 *.pid
